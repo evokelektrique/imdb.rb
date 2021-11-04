@@ -29,6 +29,7 @@ GEM
     faraday-net_http_persistent (1.2.0)
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
+    kubo (1.0.1)
     multipart-post (2.1.1)
     nokogiri (1.12.5-x86_64-linux)
       racc (~> 1.4)
@@ -73,6 +74,7 @@ PLATFORMS
 
 DEPENDENCIES
   imdb!
+  kubo
   rake (~> 13.0)
   rspec (~> 3.0)
   rubocop (~> 1.7)
